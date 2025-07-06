@@ -1,5 +1,10 @@
 # todoV3
 
-Описание: Туду-лист с полноценной интеграцией backend через RTK Query и базу данных.
+Продвинутая версия туду-приложения с полноценным backend: данные хранятся в базе PostgreSQL, клиент общается с сервером через Express и RTK Query.
 
-Технологии: React, Redux Toolkit Query, Vite
+**Технологии:**  
+- React  
+- Redux Toolkit Query  
+- Express.js  
+- PostgreSQL  
+- Vite
